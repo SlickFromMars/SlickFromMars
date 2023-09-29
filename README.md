@@ -1,5 +1,6 @@
 # Greetings!
-Hi, I'm Slick! I'm just a silly programmer, nothing to special here.
+Hi, I'm Slick! I'm just a silly programmer, based in the US! I like to work on small projects for fun. My name is not public, so if you want me for a project, you'll have to pop me a DM on Discord at `@slickfrommars`
+
 <img src="https://raw.githubusercontent.com/SlickFromMars/SlickFromMars/main/IMG_0956.jpeg" width=60% height=60%>
 
 ## Coding moment
